@@ -15,6 +15,11 @@
 <a href="https://x.com/AgniArpon45789"><img src="https://img.shields.io/badge/X-@AgniArpon45789-090c10?style=for-the-badge&logo=x&logoColor=00e5a0" /></a>
 <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Gmail-Contact_Me-090c10?style=for-the-badge&logo=gmail&logoColor=00e5a0" /></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=agnimondolarpon&label=Profile+Views&color=00e5a0&style=for-the-badge&labelColor=090c10" alt="profile views" />
+<img src="https://img.shields.io/github/followers/agnimondolarpon?label=Followers&style=for-the-badge&logo=github&logoColor=00e5a0&labelColor=090c10&color=00e5a0" alt="followers" />
+
 </div>
 
 ---
@@ -78,11 +83,36 @@ I'm a student and developer exploring the intersection of software engineering, 
 
 ---
 
+### `popular_repositories[]`
+
+<div align="center">
+  <a href="https://github.com/agnimondolarpon/cpp-repository">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=agnimondolarpon&repo=cpp-repository&hide_border=true&bg_color=090c10&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/agnimondolarpon/agnimondolarpon-dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=agnimondolarpon&repo=agnimondolarpon-dev&hide_border=true&bg_color=090c10&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" />
+  </a>
+</div>
+
+<!-- Aro repo add korte chaile upore ager moto ekta <a>...</a> block copy kore repo= er pashe nam bodlao -->
+
+---
+
 ### `stats`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agnimondolarpon&show_icons=true&hide_border=true&bg_color=090c10&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnimondolarpon&layout=compact&hide_border=true&bg_color=090c10&title_color=00e5a0&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agnimondolarpon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=090c10&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnimondolarpon&layout=compact&langs_count=8&hide_border=true&bg_color=090c10&title_color=00e5a0&text_color=c9d1d9" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=agnimondolarpon&hide_border=true&background=090C10&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+</div>
+
+---
+
+### `contribution_graph`
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=agnimondolarpon&bg_color=090c10&color=00e5a0&line=00e5a0&point=ffffff&area=true&area_color=00e5a0&hide_border=true&title_color=00e5a0" alt="contribution graph" />
 </div>
 
 ---
@@ -95,6 +125,21 @@ I'm a student and developer exploring the intersection of software engineering, 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agnimondolarpon/agnimondolarpon/output/github-snake.svg" />
     <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/agnimondolarpon/agnimondolarpon/output/github-snake-dark.svg" />
   </picture>
+</div>
+
+---
+
+### `contribution_activity`
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### `trophies`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=agnimondolarpon&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
 </div>
 
 ---
