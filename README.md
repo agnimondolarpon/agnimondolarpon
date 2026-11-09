@@ -1,151 +1,116 @@
-<h1 align="center">Hi there, I'm Agni Mondol Arpon 👋</h1>
-<h3 align="center">🚀 AI/ML Engineer • DSA Practitioner • Full-Stack Developer</h3>
+<!-- Profile README for github.com/agnimondolarpon -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+from+scratch;Solving+DSA+one+problem+at+a+time;Coding+from+a+phone+with+Termux;Shipping+full-stack+projects" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:090c10,100:00e5a0&text=AGNI%20MONDOL%20ARPON&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=hello_world.init()&descAlignY=58&descSize=18" alt="header" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agnimondolarpon&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/agnimondolarpon?label=Followers&style=for-the-badge&color=8b5cf6" alt="followers"/>
-</p>
+<div align="center">
 
-```bash
-$ whoami
-> Name     : Agni Mondol Arpon
-> Role     : AI/ML Engineer | DSA Practitioner | Full-Stack Developer
-> Location : Jessore, Bangladesh
-> Goal     : Computer Science Engineering
-> Terminal : Termux on Android
-> Status   : Building, breaking, learning — repeat.
+<a href="https://github.com/agnimondolarpon/agnimondolarpon">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00E5A0&background=090C10&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer;Full+Stack+Developer;DSA+Enthusiast;Backend+Architect" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.agnimondolarpon.online"><img src="https://img.shields.io/badge/Website-agnimondolarpon.online-090c10?style=for-the-badge&logo=googlechrome&logoColor=00e5a0" /></a>
+<a href="https://bd.linkedin.com/in/agni-mondol-arpon-282043416"><img src="https://img.shields.io/badge/LinkedIn-Agni_Mondol_Arpon-090c10?style=for-the-badge&logo=linkedin&logoColor=00e5a0" /></a>
+<a href="https://x.com/AgniArpon45789"><img src="https://img.shields.io/badge/X-@AgniArpon45789-090c10?style=for-the-badge&logo=x&logoColor=00e5a0" /></a>
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Gmail-Contact_Me-090c10?style=for-the-badge&logo=gmail&logoColor=00e5a0" /></a>
+
+</div>
+
+---
+
+### `whoami`
+
+```python
+class AgniMondolArpon:
+    role   = "Student & Developer"
+    focus  = ["AI / ML / DL", "Data Structures & Algorithms", "Full-Stack Development"]
+    started = "Python, 2024"
+
+    def about(self):
+        return "I design and build systems that learn, and the interfaces that make them useful."
 ```
 
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
+I'm a student and developer exploring the intersection of software engineering, AI, and web development. I started with Python, then expanded into C++, C, JavaScript, HTML and CSS, with a strong interest in algorithms, problem-solving, and how computers work. Right now I'm building practical projects and exploring how AI can be turned into useful real-world applications.
 
 ---
 
-## 🚀 Featured Projects
+### `skills[]`
 
-<table>
-<tr>
-<td width="50%">
+**Languages**
 
-### 🧠 [Mini-LLM-From-Scratch](https://github.com/agnimondolarpon/mini-llm-from-scratch)
-GPT-style decoder-only Transformer built from scratch in **Python + PyTorch**. Custom tokenizer, model architecture, dataset pipeline, and training loop — no shortcuts, just fundamentals.
+![C++](https://img.shields.io/badge/C++-090c10?style=flat-square&logo=cplusplus&logoColor=00e5a0)
+![Python](https://img.shields.io/badge/Python-090c10?style=flat-square&logo=python&logoColor=00e5a0)
+![JavaScript](https://img.shields.io/badge/JavaScript-090c10?style=flat-square&logo=javascript&logoColor=00e5a0)
+![TypeScript](https://img.shields.io/badge/TypeScript-090c10?style=flat-square&logo=typescript&logoColor=00e5a0)
 
-`Python` `PyTorch` `Deep Learning`
+**AI / ML / DL**
 
-</td>
-<td width="50%">
+![PyTorch](https://img.shields.io/badge/PyTorch-090c10?style=flat-square&logo=pytorch&logoColor=00e5a0)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-090c10?style=flat-square&logo=tensorflow&logoColor=00e5a0)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-090c10?style=flat-square&logo=scikitlearn&logoColor=00e5a0)
+![NumPy](https://img.shields.io/badge/NumPy-090c10?style=flat-square&logo=numpy&logoColor=00e5a0)
+![Pandas](https://img.shields.io/badge/Pandas-090c10?style=flat-square&logo=pandas&logoColor=00e5a0)
 
-### 💼 [Developer Portfolio](https://github.com/agnimondolarpon/portfolio)
-Vanilla **HTML/CSS/JS**, zero build step, deployable straight from Termux. Dark-mode UI in cyan/violet with a live BFS graph-traversal animation in the hero canvas.
+**Frontend**
 
-`HTML` `CSS` `JavaScript`
+![React](https://img.shields.io/badge/React-090c10?style=flat-square&logo=react&logoColor=00e5a0)
+![Next.js](https://img.shields.io/badge/Next.js-090c10?style=flat-square&logo=nextdotjs&logoColor=00e5a0)
+![HTML](https://img.shields.io/badge/HTML5-090c10?style=flat-square&logo=html5&logoColor=00e5a0)
+![CSS](https://img.shields.io/badge/CSS3-090c10?style=flat-square&logo=css3&logoColor=00e5a0)
+![Tailwind](https://img.shields.io/badge/Tailwind-090c10?style=flat-square&logo=tailwindcss&logoColor=00e5a0)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Backend**
 
-### 📘 [cpp-academy](https://github.com/agnimondolarpon/cpp-academy)
-Open-source, **Bengali-language** C++ learning resource — making DSA and systems programming accessible for Bengali-speaking students.
+![Node.js](https://img.shields.io/badge/Node.js-090c10?style=flat-square&logo=nodedotjs&logoColor=00e5a0)
+![Express](https://img.shields.io/badge/Express-090c10?style=flat-square&logo=express&logoColor=00e5a0)
+![Django](https://img.shields.io/badge/Django-090c10?style=flat-square&logo=django&logoColor=00e5a0)
+![Flask](https://img.shields.io/badge/Flask-090c10?style=flat-square&logo=flask&logoColor=00e5a0)
 
-`C++` `Education` `Open Source`
+**Tools & Competitive Programming**
 
-</td>
-<td width="50%">
-
-### ✨ More on the way
-Currently exploring RAG pipelines, LoRA fine-tuning, and quantization — new projects incoming.
-
-`RAG` `LoRA` `Quantization`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=agnimondolarpon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=agnimondolarpon&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnimondolarpon&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agnimondolarpon&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
+![Git](https://img.shields.io/badge/Git-090c10?style=flat-square&logo=git&logoColor=00e5a0)
+![Docker](https://img.shields.io/badge/Docker-090c10?style=flat-square&logo=docker&logoColor=00e5a0)
+![VS Code](https://img.shields.io/badge/VS_Code-090c10?style=flat-square&logo=visualstudiocode&logoColor=00e5a0)
+![Termux](https://img.shields.io/badge/Termux-090c10?style=flat-square&logo=termux&logoColor=00e5a0)
+![Codeforces](https://img.shields.io/badge/Codeforces-090c10?style=flat-square&logo=codeforces&logoColor=00e5a0)
+![LeetCode](https://img.shields.io/badge/LeetCode-090c10?style=flat-square&logo=leetcode&logoColor=00e5a0)
 
 ---
 
-## 🏆 Trophies
+### `stats`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agnimondolarpon&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/agnimondolarpon/agnimondolarpon/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
-> ⚙️ The snake animation needs a one-time GitHub Action setup in this repo (instructions below).
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agnimondolarpon&show_icons=true&hide_border=true&bg_color=090c10&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnimondolarpon&layout=compact&hide_border=true&bg_color=090c10&title_color=00e5a0&text_color=c9d1d9" />
+</div>
 
 ---
 
-## 🎯 Currently Learning / Focus
+### `snake.run()`
 
-- 🔤 Tokenization techniques (BPE) & fine-tuning (LoRA)
-- 📚 RAG pipelines & quantization for efficient LLMs
-- 🧩 Advanced Data Structures & Algorithms
-- 🌐 Deepening full-stack fundamentals
-- 🎓 Preparing for Computer Science Engineering
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agnimondolarpon/agnimondolarpon/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agnimondolarpon/agnimondolarpon/output/github-snake.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/agnimondolarpon/agnimondolarpon/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="mailto:agnimondolarpon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/agnimondolarpon">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://agnimondolarpon.online">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/agnimondolarpon">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### `let's_talk()`
 
-<p align="center"><i>~ shipped from a phone, one commit at a time ~</i></p>
+<a href="https://www.agnimondolarpon.online"><img src="https://img.shields.io/badge/Website-090c10?style=for-the-badge&logo=googlechrome&logoColor=00e5a0" /></a>
+<a href="https://github.com/agnimondolarpon"><img src="https://img.shields.io/badge/GitHub-090c10?style=for-the-badge&logo=github&logoColor=00e5a0" /></a>
+<a href="https://bd.linkedin.com/in/agni-mondol-arpon-282043416"><img src="https://img.shields.io/badge/LinkedIn-090c10?style=for-the-badge&logo=linkedin&logoColor=00e5a0" /></a>
+<a href="https://x.com/AgniArpon45789"><img src="https://img.shields.io/badge/X-090c10?style=for-the-badge&logo=x&logoColor=00e5a0" /></a>
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Gmail-090c10?style=for-the-badge&logo=gmail&logoColor=00e5a0" /></a>
+
+<sub>Building at the intersection of AI/ML and systems engineering.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00e5a0,100:090c10&section=footer" alt="footer" />
