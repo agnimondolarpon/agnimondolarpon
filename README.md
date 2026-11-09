@@ -85,39 +85,31 @@ I'm a student and developer exploring the intersection of software engineering, 
 
 ### `popular_repositories[]`
 
-<div align="center">
-  <a href="https://github.com/agnimondolarpon/cpp-repository">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=agnimondolarpon&repo=cpp-repository&hide_border=true&bg_color=090c10&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/agnimondolarpon/agnimondolarpon-dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=agnimondolarpon&repo=agnimondolarpon-dev&hide_border=true&bg_color=090c10&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" />
-  </a>
-</div>
+**[cpp-repository](https://github.com/agnimondolarpon/cpp-repository)**<br/>
+![lang](https://img.shields.io/github/languages/top/agnimondolarpon/cpp-repository?labelColor=090c10&color=00e5a0&style=flat-square)
+![stars](https://img.shields.io/github/stars/agnimondolarpon/cpp-repository?labelColor=090c10&color=00e5a0&style=flat-square)
+![commit](https://img.shields.io/github/last-commit/agnimondolarpon/cpp-repository?labelColor=090c10&color=00e5a0&style=flat-square)
 
-<!-- Aro repo add korte chaile upore ager moto ekta <a>...</a> block copy kore repo= er pashe nam bodlao -->
+**[agnimondolarpon-dev](https://github.com/agnimondolarpon/agnimondolarpon-dev)**<br/>
+![lang](https://img.shields.io/github/languages/top/agnimondolarpon/agnimondolarpon-dev?labelColor=090c10&color=00e5a0&style=flat-square)
+![stars](https://img.shields.io/github/stars/agnimondolarpon/agnimondolarpon-dev?labelColor=090c10&color=00e5a0&style=flat-square)
+![commit](https://img.shields.io/github/last-commit/agnimondolarpon/agnimondolarpon-dev?labelColor=090c10&color=00e5a0&style=flat-square)
 
+<!-- Aro repo add korte chaile upore ager moto block copy kore repo nam bodlao -->
 ---
 
 ### `stats`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agnimondolarpon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=090c10&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnimondolarpon&layout=compact&langs_count=8&hide_border=true&bg_color=090c10&title_color=00e5a0&text_color=c9d1d9" />
-  <br/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/agnimondolarpon&query=$.public_repos&label=Public%20Repos&labelColor=090c10&color=00e5a0&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/agnimondolarpon?label=Followers&labelColor=090c10&color=00e5a0&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/agnimondolarpon/cpp-repository?label=Stars&labelColor=090c10&color=00e5a0&style=flat-square" />
+  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=agnimondolarpon&hide_border=true&background=090C10&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </div>
-
 ---
 
 ### `contribution_graph`
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=agnimondolarpon&bg_color=090c10&color=00e5a0&line=00e5a0&point=ffffff&area=true&area_color=00e5a0&hide_border=true&title_color=00e5a0" alt="contribution graph" />
-</div>
-
----
-
-### `snake.run()`
 
 <div align="center">
   <picture>
@@ -133,14 +125,6 @@ I'm a student and developer exploring the intersection of software engineering, 
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-### `trophies`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agnimondolarpon&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-</div>
 
 ---
 
